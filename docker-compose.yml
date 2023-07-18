@@ -11,6 +11,7 @@ services:
       - MYSQL_PASSWORD=Boss@8055  
       - MYSQL_DATABASE=zabbix
       - ZBX_SERVER_HOST=zabbix-server
+      - TZ-Asia/Kolkata
   zabbix-web:
     image: zabbix/zabbix-web-apache-mysql:6.0-alpine-latest
     container_name: zabbix-web
@@ -22,7 +23,20 @@ services:
       - MYSQL_PASSWORD=Boss@8055  
       - MYSQL_DATABASE=zabbix
       - ZBX_SERVER_HOST=zabbix-server
+      - TZ-Asia/Kolkata
     depends_on:
       - zabbix-server
-
-
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - 8081:3000
+    environment:
+      - GF_INSTALL_PLUGINS=alexanderzobnin-zabbix-app
+      - GF_AUTH_ANONYMOUS_ENABLED=true
+    volumes:
+      - grafana-data:/var/lib/grafana:rw
+    depends_on:
+      - zabbix-server
+volumes:
+  grafana-data:
