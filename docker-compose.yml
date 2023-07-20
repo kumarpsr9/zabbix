@@ -32,8 +32,9 @@ services:
     ports:
       - 8081:3000
     environment:
-      - GF_INSTALL_PLUGINS=alexanderzobnin-zabbix-app
+      - GF_INSTALL_PLUGINS=alexanderzobnin-zabbix-app,grafana-mqtt-datasource
       - GF_AUTH_ANONYMOUS_ENABLED=true
+      - GF_SECURITY_ALLOW_EMBEDDING=true
     volumes:
       - grafana-data:/var/lib/grafana:rw
     depends_on:
