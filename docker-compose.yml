@@ -39,5 +39,37 @@ services:
       - grafana-data:/var/lib/grafana:rw
     depends_on:
       - zabbix-server
+  telegraf:
+    image: telegraf
+    ports:
+    - 8186:8186
+    volumes:
+      - ${PWD}/telegraf/telegraf.conf:/etc/telegraf/telegraf.conf
+      - ${PWD}/telegraf/logs:/var/log/telegraf
+    depends_on:
+      - influxdb
+  influxdb:
+    image: influxdb:1.6.4
+    volumes:
+      - ${PWD}/influxDB/data:/var/lib/influxdb
+    environment:
+      - INFLUXDB_DB=METRICS
+      - INFLUXDB_USERNAME=devteam
+      - INFLUXDB_PASSWORD=Boss@8055
+      - DOCKER_INFLUXDB_INIT_MODE=upgrade
+      - DOCKER_INFLUXDB_INIT_USERNAME=devteam
+      - DOCKER_INFLUXDB_INIT_PASSWORD=Boss@8055
+      - DOCKER_INFLUXDB_INIT_ORG=aditya-org
+      - DOCKER_INFLUXDB_INIT_BUCKET=aditya-bucket
+  mosquitto:
+    image: eclipse-mosquitto
+    ports:
+      - 1883:1883
+      - 8883:8883
+    volumes:
+      - ${PWD}/mosquitto/data:/mosquitto/data
+      - ${PWD}/mosquitto/logs:/mosquitto/logs
+      - ${PWD}/mosquitto/conf:/mosquitto/config
+    restart: unless-stopped
 volumes:
   grafana-data:

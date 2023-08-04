@@ -1,0 +1,1082 @@
+2021-08-14T13:12:04Z I! Loaded inputs: mqtt_consumer (16x)
+2021-08-14T13:12:04Z I! Loaded aggregators: 
+2021-08-14T13:12:04Z I! Loaded processors: 
+2021-08-14T13:12:04Z I! Loaded outputs: influxdb (16x)
+2021-08-14T13:12:04Z I! Tags enabled: host=mqtt.cobrain.net
+2021-08-14T13:12:04Z I! [agent] Config: Interval:15s, Quiet:false, Hostname:"mqtt.cobrain.net", Flush Interval:15s
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:12:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:19:19Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:19:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:34:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:34:08Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:34:08Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:34:08Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:34:08Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:34:08Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:35:16Z I! [agent] Hang on, flushing any cached metrics before shutdown
+2021-08-14T13:35:16Z I! [agent] Stopping running outputs
+2021-08-14T13:36:58Z I! Loaded inputs: mqtt_consumer (16x)
+2021-08-14T13:36:58Z I! Loaded aggregators: 
+2021-08-14T13:36:58Z I! Loaded processors: 
+2021-08-14T13:36:58Z I! Loaded outputs: influxdb (16x)
+2021-08-14T13:36:58Z I! Tags enabled: host=mqtt.cobrain.net
+2021-08-14T13:36:58Z I! [agent] Config: Interval:15s, Quiet:false, Hostname:"mqtt.cobrain.net", Flush Interval:15s
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_systemstats" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_connectionstatus" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_odom_imu" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_odom" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_current_sensor" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_odom_wheels" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_tf" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_current_information" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:58Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_em_status" creation failed: Post "http://influxdb:8086/query": dial tcp: lookup influxdb on 127.0.0.11:53: no such host
+2021-08-14T13:36:59Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_cmd_vel_info" creation failed: Post "http://influxdb:8086/query": dial tcp 172.23.0.6:8086: connect: connection refused
+2021-08-14T13:36:59Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_steering_encoders" creation failed: Post "http://influxdb:8086/query": dial tcp 172.23.0.6:8086: connect: connection refused
+2021-08-14T13:36:59Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_control_command_status" creation failed: Post "http://influxdb:8086/query": dial tcp 172.23.0.6:8086: connect: connection refused
+2021-08-14T13:36:59Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_rosout_agg" creation failed: Post "http://influxdb:8086/query": dial tcp 172.23.0.6:8086: connect: connection refused
+2021-08-14T13:36:59Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_em_status" creation failed: Post "http://influxdb:8086/query": dial tcp 172.23.0.6:8086: connect: connection refused
+2021-08-14T13:36:59Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_vectornav" creation failed: Post "http://influxdb:8086/query": dial tcp 172.23.0.6:8086: connect: connection refused
+2021-08-14T13:36:59Z W! [outputs.influxdb] When writing to [http://influxdb:8086]: database "htetro_shape_config_status" creation failed: Post "http://influxdb:8086/query": dial tcp 172.23.0.6:8086: connect: connection refused
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:36:59Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:37:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:38:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:42Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:43:45Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T13:44:00Z E! [inputs.mqtt_consumer] Error in plugin: network Error : dial tcp 10.60.1.15:1883: connect: connection refused
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:14:56Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T14:15:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:21Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T15:22:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T17:05:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T17:05:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T17:05:19Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:22Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:28Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:32Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T18:42:46Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:46Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:46Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:46Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T18:42:46Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T20:07:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T20:07:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T20:07:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T20:07:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T20:07:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:21Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:21Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T21:44:31Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:31Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T21:44:31Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:51Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:51Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:51Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:51Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:51Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:51Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:51Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:07:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-14T23:08:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:04Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:05Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:05Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:05Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:05Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:08Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:08Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T00:46:19Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T02:12:48Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T02:12:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T02:13:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:12Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T03:35:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:19Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:19Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T03:35:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:12Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:25Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T04:52:25Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T04:52:25Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T04:52:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T04:52:31Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:18Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:09:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:09:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:09:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:09:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:09:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:09:50Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:50Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:50Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:50Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:50Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:50Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:09:50Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:14Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:10:23Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:26:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:26:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:26:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:26:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:40:48Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:40:48Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:40:48Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:40:48Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:40:49Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:40:49Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:41:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:41:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:41:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:41:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:41:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:41:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:41:05Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:41:05Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:56:16Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:56:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:56:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:56:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:56:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T05:56:34Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:34Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T05:56:39Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:11:57Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:11:57Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:11:57Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:11:57Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:33Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:33Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:34Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:34Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:34Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:34Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:43Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:43Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:12:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:12:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:28:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:28:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:28:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:28:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:28:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:28:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:28:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:29:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:29:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:29:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:29:20Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:20Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:29:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:40Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:42Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:44:42Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:44:42Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:44:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:44:55Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:45:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:45:15Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:45:15Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:45:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T06:45:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T06:45:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:01:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:01:18Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:16:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:16:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:16:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:16:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:17:06Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:17:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:40Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:32:40Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:32:40Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:32:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:32:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T07:47:15Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:15Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:15Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:17Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:20Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T07:47:20Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:02:42Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:03:12Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:03:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:03:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:03:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:25Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:25Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:28Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:28Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:21:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:38:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:38:40Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:38:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:38:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:38:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:38:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:38:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:38:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:39:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:39:16Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:54:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:32Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:54:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:54:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:54:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:54:41Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T08:54:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T08:54:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:11:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:11:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:11:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:11:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:02Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:22Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:29Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:12:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:30Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:12:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:28:50Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:28:50Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:28:50Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:28:50Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:29:06Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:29:10Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:29:10Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:29:11Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:29:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:29:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:29:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:29:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:31Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:36Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:36Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:36Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T09:43:36Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:51Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:45:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:52Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:53Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:45:57Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:03Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:03Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:03Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:03Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:03Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:03Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:03Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:06Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T10:46:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:07Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:10Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:19Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:30Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T12:10:34Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T12:10:35Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:06Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T13:43:15Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T13:43:25Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T13:43:25Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T15:02:43Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T15:02:43Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T15:02:43Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T15:02:59Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T15:03:00Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T15:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T15:03:06Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:36Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:02:37Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:02:42Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:42Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:42Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:42Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:02:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:02:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:02:45Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:02:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:47Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:49Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:02:49Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:03:00Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:11:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:11:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:11:24Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:11:29Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:11:29Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:11:29Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:12:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:12:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:12:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:12:04Z E! [inputs.mqtt_consumer] Error in plugin: connection lost: EOF
+2021-08-15T16:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:12:15Z I! [inputs.mqtt_consumer] Connected [tcp://10.60.1.15:1883]
+2021-08-15T16:16:09Z I! [agent] Hang on, flushing any cached metrics before shutdown
+2021-08-15T16:16:09Z I! [agent] Stopping running outputs
+2021-08-15T16:43:26Z I! Loaded inputs: mqtt_consumer (16x)
+2021-08-15T16:43:26Z I! Loaded aggregators: 
+2021-08-15T16:43:26Z I! Loaded processors: 
+2021-08-15T16:43:26Z I! Loaded outputs: influxdb (16x)
+2021-08-15T16:43:26Z I! Tags enabled: host=mqtt.cobrain.net
+2021-08-15T16:43:26Z I! [agent] Config: Interval:15s, Quiet:false, Hostname:"mqtt.cobrain.net", Flush Interval:15s
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T16:43:26Z I! [inputs.mqtt_consumer] Connected [tcp://mosquitto:1883]
+2021-08-15T17:03:59Z I! [agent] Hang on, flushing any cached metrics before shutdown
+2021-08-15T17:03:59Z I! [agent] Stopping running outputs

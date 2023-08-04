@@ -1,1 +1,4 @@
 grafana-data
+influxDB
+telegraf/logs
+mosquitto
