@@ -42,7 +42,7 @@ services:
   telegraf:
     image: telegraf
     ports:
-    - 8186:8186
+     - 8186:8186
     volumes:
       - ${PWD}/telegraf/telegraf.conf:/etc/telegraf/telegraf.conf
       - ${PWD}/telegraf/logs:/var/log/telegraf
@@ -50,8 +50,11 @@ services:
       - influxdb
   influxdb:
     image: influxdb:1.6.4
+    ports:
+      - "8086:8086"
     volumes:
       - ${PWD}/influxDB/data:/var/lib/influxdb
+      - ${PWD}/influxdb/influxdb.conf:/etc/influxdb/influxdb.conf
     environment:
       - INFLUXDB_DB=METRICS
       - INFLUXDB_USERNAME=devteam
@@ -71,5 +74,12 @@ services:
       - ${PWD}/mosquitto/logs:/mosquitto/logs
       - ${PWD}/mosquitto/conf:/mosquitto/config
     restart: unless-stopped
+  uptime-kuma:
+    container_name: uptime-kuma-dev
+    image: louislam/uptime-kuma
+    volumes:
+      - ./uptime-kuma:/app/data
+    ports:
+      - "8286:3001"  
 volumes:
   grafana-data:
